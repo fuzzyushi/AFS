@@ -1,15 +1,15 @@
-Aggressive Fuzzing System
+#Aggressive Fuzzing System
 
 	Distributed fuzzing system with FuzzWin
 
-DEPENDS:
+##DEPENDS:
 
 	Beanstalk
 
 	Fuzzwin
 
 
-USAGE:
+##USAGE:
 
 	AFS_SERVER.py --seed_dir=[seed dir]
 
